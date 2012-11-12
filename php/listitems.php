@@ -89,9 +89,9 @@ $(document).ready(function() {
 <th><?php te("Location");?></th>
 <th><?php te("Rack");?></th>
 <th><?php te("PurchPrice");?></th>
-<th><?php te("MACs");?></th>
+<th><?php te("Eth MAC");?></th>
 <th><?php te("IPv4");?></th>
-<th><?php te("IPv6");?></th>
+<th><?php te("Wifi MAC");?></th>
 <th><?php te("RemAdmIP");?></th>
 <th><?php te("Tags");?></th>
 <th><?php te("Software");?></th>
